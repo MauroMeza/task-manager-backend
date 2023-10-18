@@ -5,5 +5,5 @@
 target/
 .idea/
 .idea_modules/
-*.inl
+*.iml
 *.ipr
